@@ -1,7 +1,9 @@
 February 2014 
 
+
 List of members of the hackerspace and up to date with the payments (month rent)
------------------
+
+
 
 
 Active Membership
