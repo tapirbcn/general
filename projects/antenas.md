@@ -29,3 +29,13 @@ Materiales:
 - 1 tapadera extra de bote pringles o tapa plastica de otro tipo de bote 
 - 1 cable pig tail (preguntenle al jeff porque se llamara asi? ) 
 - 1 rollo de cinta metalizada la usan en refrigeracion (opcional) 
+- 
+#### Materiales que ya tenemos
+
+En el hackerspace ya tenemos muchos de los materiales necesarios para hacer las antenas. 
+
+- Muchos botes de pringles
+- 5 pig tails N->RP-SMA
+- 5 roscas N
+- 
+En realidad solo es necesario comprar lo mas barato, es decir, las arandelas, la barra roscada, las tuercas y la cinta metalizada
