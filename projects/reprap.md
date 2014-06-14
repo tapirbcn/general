@@ -1,8 +1,6 @@
 RepRap
 --------
 
-Adquirir una impresora 3D RepRap
-http://reprap.org/wiki/RepRap
-
-Precio:
-- DealExtreme -> 430€
+=== Descripción ===
+We have bought our 3d printer from printhatshit, the estimate for arrival is
+18-June-2014.
