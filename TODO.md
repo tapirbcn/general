@@ -5,5 +5,5 @@ List of things to do
   - Fix bathrooms
   - Deep clean the place
   - Put some swag around
-  - 
+  - Get a Fridge
 
