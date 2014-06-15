@@ -6,4 +6,5 @@ List of things to do
   - Deep clean the place
   - Put some swag around
   - Get a Fridge
+  - Improve internet connectivity
 
